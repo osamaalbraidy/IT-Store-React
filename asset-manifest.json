@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/IT-Store-React/static/css/main.7697a780.css",
+    "main.js": "/IT-Store-React/static/js/main.231d8868.js",
+    "static/media/about1.jpeg": "/IT-Store-React/static/media/about1.d501de958fb8a29755a1.jpeg",
+    "static/media/Products04.png": "/IT-Store-React/static/media/Products04.49e6c82095904f8bc4b3.png",
+    "static/media/home02.webp": "/IT-Store-React/static/media/home02.4fcd92f917d70c89bd4c.webp",
+    "static/media/Products02.png": "/IT-Store-React/static/media/Products02.c30671d552bfb9fa6947.png",
+    "static/media/Products03.png": "/IT-Store-React/static/media/Products03.15e059c42b17c1741d87.png",
+    "static/media/Products26.png": "/IT-Store-React/static/media/Products26.09f5a1b27fd830259b4f.png",
+    "static/media/home06.jpg": "/IT-Store-React/static/media/home06.bc0f79d3172e6bfbba1c.jpg",
+    "static/media/about4.png": "/IT-Store-React/static/media/about4.00e4f0bfe06927960c2f.png",
+    "static/media/about6.png": "/IT-Store-React/static/media/about6.73ae9b14fd4b319e6234.png",
+    "static/media/about3.png": "/IT-Store-React/static/media/about3.e72046856cbe233f15fa.png",
+    "static/media/Products14.jpg": "/IT-Store-React/static/media/Products14.9422784eb96037b5ab01.jpg",
+    "static/media/about5.png": "/IT-Store-React/static/media/about5.b05f553586c18ec73178.png",
+    "static/media/about2.png": "/IT-Store-React/static/media/about2.8c0f513770b0304c1b96.png",
+    "static/media/about7.png": "/IT-Store-React/static/media/about7.fbab9a37373bd86000d3.png",
+    "static/media/Products13.jpg": "/IT-Store-React/static/media/Products13.fde8017761a81ab39513.jpg",
+    "static/media/Products11.jpg": "/IT-Store-React/static/media/Products11.c026d8f8acb60bed5b6e.jpg",
+    "static/media/Products10.jpg": "/IT-Store-React/static/media/Products10.943fc46803b7ad6b1606.jpg",
+    "static/media/Products27.jpg": "/IT-Store-React/static/media/Products27.4e21979484250e95a2d0.jpg",
+    "static/media/Products21.jpg": "/IT-Store-React/static/media/Products21.b54dfc7fe7cf8326e56d.jpg",
+    "static/media/Products29.webp": "/IT-Store-React/static/media/Products29.f58ee1ec611ffc45cd2e.webp",
+    "static/media/Products15.webp": "/IT-Store-React/static/media/Products15.a7041bf6bd04eccd86c0.webp",
+    "static/media/Products17.webp": "/IT-Store-React/static/media/Products17.d2acb6984448fad6bbd4.webp",
+    "static/media/Products20.webp": "/IT-Store-React/static/media/Products20.4aa984c1ce86659ea10b.webp",
+    "static/media/Products18.webp": "/IT-Store-React/static/media/Products18.4571066c0a5cf5112d36.webp",
+    "static/media/Products19.webp": "/IT-Store-React/static/media/Products19.3706d33f0fa62bd554e3.webp",
+    "static/media/Products16.webp": "/IT-Store-React/static/media/Products16.3dd8192b6f6ee57f2b71.webp",
+    "static/media/Products28.webp": "/IT-Store-React/static/media/Products28.abea71a807b80d192317.webp",
+    "static/media/Products24.webp": "/IT-Store-React/static/media/Products24.00c95aa0eb35e3580fdb.webp",
+    "static/media/Products05.webp": "/IT-Store-React/static/media/Products05.565c7f76c20cb2b64afb.webp",
+    "static/media/Products23.webp": "/IT-Store-React/static/media/Products23.8ac3513a85f4f982d37a.webp",
+    "index.html": "/IT-Store-React/index.html",
+    "main.7697a780.css.map": "/IT-Store-React/static/css/main.7697a780.css.map",
+    "main.231d8868.js.map": "/IT-Store-React/static/js/main.231d8868.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7697a780.css",
+    "static/js/main.231d8868.js"
+  ]
+}
